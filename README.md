@@ -1,12 +1,10 @@
 # GDP-World-Trends-
 
-Project One Proposal
-
 Topic:  Data Exploration of trends in: Poorest countries in continents with High GDPs
-(Intent will be to incorporate different elements of first six weeks of training, Must use Pandas and Jupyter Notebook).
+(Intent will be to incorporate different elements of first six weeks of training using Pandas and Jupyter Notebook).
 
 
-Team Members (Group 6):
+Team Members:
 Nadia Albarracin – nadia.lashaw@gmail.com
 John Klinges – jklinges13@gmail.com	
 Paul Eppers - pauleppers@hotmail.com
